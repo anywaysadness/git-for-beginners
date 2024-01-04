@@ -1,4 +1,7 @@
-# git-for-beginners
-Конспектирование и решение [курса stepik](https://stepik.org/course/3145/syllabus) по GIT с личными дополнениями.
+# git-for-beginners  
 
-Основные команды и действия для личного пользования.
+Основные команды и действия для личного пользования.  
+
+Конспектирование и решение [курса Git для всех](https://stepik.org/course/126023/syllabus) и [курса Основы Git](https://stepik.org/course/3145/syllabus).
+
+
