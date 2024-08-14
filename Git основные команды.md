@@ -195,8 +195,10 @@
 
 `git clone https://github.com/anyway/project1` — клонировать удаленный репозиторий на локальную машину
 
-`git remote add origin https://github.com/anyway/project1` — связать локальный репозиторий с удаленным репозиторием   
-
 `git push origin` — отправить коммиты на сервер
+
+`git remote` — посмотреть список доступных удаленных репозиториев
+
+`git remote add origin https://github.com/anyway/project1` — связать локальный репозиторий с удаленным репозиторием   
 
 `git remote add origin HEAD` — отправить на сервер текущую ветку со всеми коммитами в ней
